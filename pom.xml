@@ -37,7 +37,7 @@
                         <username>santhosh123rt</username>
 						<password>santhosh123@1A</password>
 						<applicationName>cicd-api-maven-jenk</applicationName>
-						<environment>SANDBOX</environment>
+						<environment>Sandbox</environment>
 						<workers>1</workers>
 						<workerType>Micro</workerType>
 						<objectStoreV2>true</objectStoreV2>
